@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Softbreak.OnionArch.CONTRACT/1.0.0": {
+        "dependencies": {
+          "Softbreak.OnionArch.DOMAIN": "1.0.0"
+        },
+        "runtime": {
+          "Softbreak.OnionArch.CONTRACT.dll": {}
+        }
+      },
+      "Softbreak.OnionArch.DOMAIN/1.0.0": {
+        "runtime": {
+          "Softbreak.OnionArch.DOMAIN.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Softbreak.OnionArch.CONTRACT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Softbreak.OnionArch.DOMAIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

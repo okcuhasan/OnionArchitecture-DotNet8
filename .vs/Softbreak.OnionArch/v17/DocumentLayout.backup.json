@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|c:\\users\\hasan.okcu\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.application\\dependencyresolvers\\applicationmappingserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|solutionrelative:core\\softbreak.onionarch.application\\dependencyresolvers\\applicationmappingserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|c:\\users\\hasan.okcu\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.application\\managers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|solutionrelative:core\\softbreak.onionarch.application\\managers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|c:\\users\\hasan.okcu\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.application\\managers\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|solutionrelative:core\\softbreak.onionarch.application\\managers\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|c:\\users\\hasan.okcu\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.application\\mapping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB63E31-BA40-417F-93B3-BC316DDD9C01}|Core\\Softbreak.OnionArch.APPLICATION\\Softbreak.OnionArch.APPLICATION.csproj|solutionrelative:core\\softbreak.onionarch.application\\mapping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3771E4A-E676-4EE4-A1A3-98F866D85A4C}|Core\\Softbreak.OnionArch.CONTRACT\\Softbreak.OnionArch.CONTRACT.csproj|c:\\users\\hasan.okcu\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.contract\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3771E4A-E676-4EE4-A1A3-98F866D85A4C}|Core\\Softbreak.OnionArch.CONTRACT\\Softbreak.OnionArch.CONTRACT.csproj|solutionrelative:core\\softbreak.onionarch.contract\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3771E4A-E676-4EE4-A1A3-98F866D85A4C}|Core\\Softbreak.OnionArch.CONTRACT\\Softbreak.OnionArch.CONTRACT.csproj|c:\\users\\hasan.okcu\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.contract\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3771E4A-E676-4EE4-A1A3-98F866D85A4C}|Core\\Softbreak.OnionArch.CONTRACT\\Softbreak.OnionArch.CONTRACT.csproj|solutionrelative:core\\softbreak.onionarch.contract\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationMappingServiceInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\DependencyResolvers\\ApplicationMappingServiceInjection.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.APPLICATION\\DependencyResolvers\\ApplicationMappingServiceInjection.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\DependencyResolvers\\ApplicationMappingServiceInjection.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.APPLICATION\\DependencyResolvers\\ApplicationMappingServiceInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:57:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IProductManager.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IProductManager.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:57:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IManager.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IManager.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IManager.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.APPLICATION\\Managers\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:56:56.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\Mapping\\MapProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.APPLICATION\\Mapping\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.APPLICATION\\Mapping\\MapProfile.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.APPLICATION\\Mapping\\MapProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:56:51.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:56:19.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.CONTRACT\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:56:05.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

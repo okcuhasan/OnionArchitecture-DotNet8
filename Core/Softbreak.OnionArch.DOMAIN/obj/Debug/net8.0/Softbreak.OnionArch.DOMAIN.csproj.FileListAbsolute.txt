@@ -1,0 +1,11 @@
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\bin\Debug\net8.0\Softbreak.OnionArch.DOMAIN.deps.json
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\bin\Debug\net8.0\Softbreak.OnionArch.DOMAIN.dll
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\bin\Debug\net8.0\Softbreak.OnionArch.DOMAIN.pdb
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\Softbreak.OnionArch.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\Softbreak.OnionArch.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\Softbreak.OnionArch.DOMAIN.AssemblyInfo.cs
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\Softbreak.OnionArch.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\Softbreak.OnionArch.DOMAIN.dll
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\refint\Softbreak.OnionArch.DOMAIN.dll
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\Softbreak.OnionArch.DOMAIN.pdb
+C:\Users\hasan.okcu\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.DOMAIN\obj\Debug\net8.0\ref\Softbreak.OnionArch.DOMAIN.dll
