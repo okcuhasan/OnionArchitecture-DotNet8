@@ -21,4 +21,6 @@ The project is structured into clean layers:
 - Onion Architecture
 - SQL Server
 - Dependency Injection
+- Soft Delete Mechanism
+- Dependency Resolvers
 
